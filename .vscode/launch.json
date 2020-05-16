@@ -8,7 +8,7 @@
         "name": "(gdb) Launch",
         "type": "cppdbg",
         "request": "launch",
-        "program": "${workspaceFolder}/02_getting_an_image_on_the_screen/02_getting_an_image_on_the_screen.exe",
+        "program": "${workspaceFolder}/src/main.exe",
         "args": [],
         "stopAtEntry": false,
         "cwd": "${workspaceFolder}",
